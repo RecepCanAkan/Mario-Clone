@@ -5,7 +5,7 @@
 <b>Pause Menu and Win Panel Menu</b>
 ![PauseMenu](https://github.com/RecepCanAkan/Mario-Clone/assets/132308952/7b049ea0-3378-4977-8bb7-30de9454bac5)
 ![WinPanel](https://github.com/RecepCanAkan/Mario-Clone/assets/132308952/32282787-8093-41b2-98af-6a61fcea1e92)
-<b>Ingame Level</b>
+<b>Ingame Levels</b>
 ![253950706-3fa70344-8a8d-4f9d-97c9-0404bf7eb318](https://github.com/RecepCanAkan/Mario-Clone/assets/132308952/3f1852b8-ae4f-4f61-a7ab-3c74b62aa7d2)
 ![253950712-64192830-44e6-4153-b160-a3fbeb2b52f2](https://github.com/RecepCanAkan/Mario-Clone/assets/132308952/2328a091-019a-4177-b1cd-cb92907072f2)
 ![253950713-bf9faf41-6b10-4e70-994e-01c877dd7566](https://github.com/RecepCanAkan/Mario-Clone/assets/132308952/1e93f685-5bb3-43b3-8834-4271360ea6e4)
